@@ -1,0 +1,123 @@
+/* fonts st */
+
+
+.zain-extralight {
+    font-family: "Zain", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .zain-light {
+    font-family: "Zain", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .zain-regular {
+    font-family: "Zain", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .zain-bold {
+    font-family: "Zain", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .zain-extrabold {
+    font-family: "Zain", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .zain-black {
+    font-family: "Zain", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 400 */
+
+.playwrite-cu {
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* fonts end */
+
+
+
+
+.su {
+    height: 100%;
+    margin: 0;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    background-image: url('fp4.jpeg') ; /* Placeholder image URL */
+    background-size: cover;
+    background-position: center;
+}
+
+
+/* .su{
+    position: relative;
+} */
+.container {
+    height: 100%;
+}
+
+.card {
+    overflow: hidden;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.left-panel {
+    background: url('fp2.jpeg') no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    text-align: center;
+    
+}
+
+.left-panel{
+    border: none;
+
+}
+.left-panel h2 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.left-panel p {
+    font-size: 16px;
+}
+
+.left-panel .btn-outline-light {
+    border-color: white(13, 13, 13);
+    color: white(17, 16, 16);
+}
